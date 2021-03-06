@@ -8,10 +8,10 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+Selamat Datang di Toko Bunga Batam Asry Florist, kirim karangan bunga papan ucapan dan buket bunga segar. Melayani pemesanan dan pengiriman dalam dan luar kota batam, dikelola oleh tenaga ahli dibidangnya.
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+Dengan jasa pelayanan online setiap hari di internet, menyesuaikan pesanan konsumen: bunga papan, bunga plastik, bunga segar. Siap diantar di hari yang sama.
 
-Have a look at the Github page for more information.
+Untuk info lengkapnya silahkan menghubungi kontak kami di: 081396353338 (telpon, sms atau whatsapp).
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+Atau kunjungi blog kami di `bungabuket.com` Salam dan Terima Kasih.
