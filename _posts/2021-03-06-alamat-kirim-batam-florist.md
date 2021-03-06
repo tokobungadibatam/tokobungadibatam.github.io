@@ -6,6 +6,22 @@ description: Kirim Bunga Papan dan Bunga Mawar Buket di Batam kini semakin mudah
 tags: [tokobungabatam]
 author: tokobungadibatam
 permalink: /:title.html
+galleries:
+  - title: wedding
+    image: /image/wedding.jpg
+    url: /image/wedding.jpg
+  - title: bahagia
+    image: /image/bahagia.jpg
+    url: /image/bahagia.jpg
+  - title: sukses
+    image: /image/sukses.jpg
+    url: /image/sukses.jpg
+  - title: dukacita
+    image: /image/dukacita.jpg
+    url: /image/dukacita.jpg
+  - title: bunga segar
+    image: /image/bunga-segar.jpg
+    url: /image/bunga-segar.jpg
 comments: true
 ---
 
