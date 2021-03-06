@@ -25,6 +25,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-figure
   - jekyll-loading-lazy
+  - jekyll-feed
 
 target-blank:
     rel: noopener
