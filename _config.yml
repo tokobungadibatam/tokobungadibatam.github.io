@@ -28,3 +28,8 @@ target-blank:
     rel: noopener
 
 header_page_refs: ['now', 'about', 'contact']
+
+collections:
+  tags:
+    output: true
+    permalink: tags/:path/
