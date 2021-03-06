@@ -19,6 +19,8 @@ layout: default
     {{ content }}
   </div>
 
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+
 {% if page.tags.size > 0 %}
       <div class="post-meta">
         <i class="fas fa-tags"></i>
