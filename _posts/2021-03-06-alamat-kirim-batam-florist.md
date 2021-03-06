@@ -6,6 +6,7 @@ description: Kirim Bunga Papan dan Bunga Mawar Buket di Batam kini semakin mudah
 tags: [tokobungabatam]
 author: tokobungadibatam
 permalink: /:title.html
+comments: true
 ---
 
 Berikut dilampirkan alamat jangkauan pengiriman Toko Bunga Batam Asry Florist, diantaranya adalah sebagai berikut:
