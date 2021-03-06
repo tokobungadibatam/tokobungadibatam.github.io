@@ -3,12 +3,7 @@ layout: default
 ---
 <article class="post h-entry" itemscope item="http://schema.org/BlogPosting">
 <header class="post-header">
-    {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}" alt="{{ image.alt }}" class="featured-image-post">
-    {%- else -%}
-      {%- assign postImage = "/image/header.png" -%}
-      <img src="{{- postImage | relative_url -}}" alt="{{ image.alt }}" class="featured-image-post">
-    {%- endif -%}
+    {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
     <h1 class="post-title p-name" item="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
