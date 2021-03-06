@@ -24,6 +24,7 @@ twitter:
 plugins:
   - jekyll-target-blank
   - jekyll-figure
+  - jekyll-loading-lazy
 
 target-blank:
     rel: noopener
