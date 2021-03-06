@@ -3,7 +3,6 @@ layout: default
 ---
 <article itemscope itemtype="http://schema.org/BlogPosting">
 <header class="post-header">
-    {% include search-google.html %}
     {%- if page.image -%}
       <img src="{{- page.image | relative_url -}}" alt="{{ post.image }}" class="featured-image-post">
     {%- else -%}
