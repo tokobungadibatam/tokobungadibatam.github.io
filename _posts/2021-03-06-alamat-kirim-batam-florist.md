@@ -27,6 +27,7 @@ galleries:
 comments: true
 ---
 
+## ALAMAT KIRIM TOKO BUNGA BATAM
 Berikut dilampirkan alamat jangkauan pengiriman Toko Bunga Batam Asry Florist, diantaranya adalah sebagai berikut:
 
 1. Sekupang
@@ -42,4 +43,5 @@ Berikut dilampirkan alamat jangkauan pengiriman Toko Bunga Batam Asry Florist, d
 11. Sagulung
 12. Bengkong
 
+### KONTAK TOKO BUNGA BATAM
 Jika nantinya alamat kirim pesanan anda tidak terdapat di daftar yang tertera diatas, maka bisa menghubungi kontak admin kami ya di: 081396353338.
