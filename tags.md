@@ -5,12 +5,19 @@ title: Tags
 permalink: /tags/
 ---
 
-<div class="snippets">
-  <h1 class="snippets-heading">Articles tagged with "{{ page.tag-name }}"</h1>
-
-  {% for post in site.posts %}
-    {% if post.tags contains page.tag-name %}
-      {% include snippet.html %}
-    {% endif %}
-  {% endfor %}
+<div class="all-tags">
+  All tags:
+  <ul>
+    {% assign tags = site.posts | all_tags %}
+    {% for tag in tags %}
+      {% assign tag_slug = tag['name'] | slugify: "raw" %}
+      <li>
+        <a class="tag-link"
+          href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+          rel="category tag">
+          #{{ tag['name'] }} ({{ tag['count'] }})
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
