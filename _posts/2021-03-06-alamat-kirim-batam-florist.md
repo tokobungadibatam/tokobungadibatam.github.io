@@ -4,6 +4,7 @@ title: Alamat Kirim Toko Bunga Batam
 tagline: Kirim Papan Bunga Batam 081396353338
 description: Kirim Bunga Papan dan Bunga Mawar Buket di Batam kini semakin mudah dan simpel karena hadirnya salah satu florist batam terbaik.
 tags: [tokobungabatam]
+image: /image/bunga-segar.jpg
 author: tokobungadibatam
 permalink: /:title.html
 galleries:
