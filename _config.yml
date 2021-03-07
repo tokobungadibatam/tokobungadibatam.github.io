@@ -38,3 +38,6 @@ disqus:
 
 include:
   - "image"
+
+head_scripts:
+  - /assets/js/scroll-to-top.js
