@@ -38,18 +38,3 @@ disqus:
 
 include:
   - "image"
-
-# JavaScript
-head_scripts:
-  - /assets/js/scroll-to-top.js
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed
-
-gems:
-  - jekyll-font-awesome-sass
-
-font-awesome:
-  assets: true
