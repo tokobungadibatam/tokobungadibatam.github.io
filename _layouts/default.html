@@ -43,7 +43,7 @@
     {% if site.plugins contains "jekyll-feed" %}
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | absolute_url }}">
     {% endif %}
-    
+    <link rel="sitemap" type="application/xml" title="{{ site.title | escape }}" href="{{ "/sitemap.xml" | absolute_url }}">
     <link rel="shortcut icon" href="{{ "/favicon.png" | absolute_url }}">
     
     <meta name="robots" content="noarchive">
