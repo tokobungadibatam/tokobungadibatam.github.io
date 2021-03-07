@@ -47,3 +47,6 @@ head_scripts:
 sass:
   sass_dir: _sass
   style: compressed
+
+gems:
+  - jekyll-font-awesome-sass
