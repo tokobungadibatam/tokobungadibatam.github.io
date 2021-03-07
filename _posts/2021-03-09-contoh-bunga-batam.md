@@ -28,4 +28,4 @@ permalink: /:title.html
 
 ## CONTOH BUNGA RANGKAIAN BATAM
 Berikut dilampirkan beberapa contoh produk rangkaian bunga di batam florist:
-![papan bunga batam]({{site.url}}/image/papanbungabatam.jpg "papan bunga batam"){:class="img-responsive"}{:height="400px" width="600px"}
+![toko bunga batam](https://github.com/tokobungadibatam/tokobungadibatam.github.io/blob/master/image/tokobungabatam.jpg "toko bunga batam"){:class="img-responsive"}{:height="400px" width="600px"}
