@@ -4,12 +4,12 @@ layout: default
 <article class="post h-entry" itemscope item="http://schema.org/BlogPosting">
 <header class="post-header">
     {%- if page.image -%}
-      <img src="{{- page.image | relative_url -}}" alt="toko bunga batam" loading="lazy" class="featured-image-post">
+      <a href="{{ site.url }}{{ post.url }}"><img src="{{- page.image | relative_url -}}" alt="toko bunga batam" loading="lazy" class="featured-image-post"></a>
     {%- else -%}
       {%- assign postImage = "/image/tokobungabatam.jpg" -%}
-      <img src="{{- postImage | relative_url -}}" alt="toko bunga batam" loading="lazy" class="featured-image-post">
+      <a href="{{ site.url }}{{ post.url }}"><img src="{{- postImage | relative_url -}}" alt="toko bunga batam" loading="lazy" class="featured-image-post"></a>
     {%- endif -%}
-    <h1 class="post-title p-name" item="name headline">{{ page.title | escape }}{{ site.url }}{{ post.url }}</h1>
+    <h1 class="post-title p-name" item="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" item="datePublished">
