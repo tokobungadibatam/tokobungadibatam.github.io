@@ -29,10 +29,10 @@ permalink: /:title.html
 ## CONTOH BUNGA RANGKAIAN BATAM
 Berikut dilampirkan beberapa contoh produk rangkaian bunga di batam florist:
 - ![toko bunga batam]({{ site.url }}/assets/img/tokobungabatam.jpg "toko bunga batam")
-- ![karangan bunga batam]({{ site.url }}/assets/img/karanganbungabatam.jpg)
-- ![rangkaian bunga batam]({{ site.url }}/assets/img/rangkaianbungabatam.jpg)
-- ![bahagia]({{ site.url }}/assets/img/bahagia.jpg)
-- ![dukacita]({{ site.url }}/assets/img/dukacita.jpg)
-- ![sukses]({{ site.url }}/assets/img/sukses.jpg)
-- ![wedding]({{ site.url }}/assets/img/wedding.jpg)
-- ![bunga segar]({{ site.url }}/assets/img/bunga-segar.jpg)
+- ![karangan bunga batam]({{ site.url }}/assets/img/karanganbungabatam.jpg "karangan bunga batam")
+- ![rangkaian bunga batam]({{ site.url }}/assets/img/rangkaianbungabatam.jpg "rangkaian bunga batam")
+- ![bahagia]({{ site.url }}/assets/img/bahagia.jpg "bunga batam bahagia")
+- ![dukacita]({{ site.url }}/assets/img/dukacita.jpg "bunga batam dukacita")
+- ![sukses]({{ site.url }}/assets/img/sukses.jpg "bunga batam sukses")
+- ![wedding]({{ site.url }}/assets/img/wedding.jpg "bunga batam wedding")
+- ![bunga segar]({{ site.url }}/assets/img/bunga-segar.jpg "bunga segar batam")
