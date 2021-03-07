@@ -93,6 +93,7 @@
         
         <section class="main-content">
             {% include breadcrumbs.html %}
+            {% include csegoogle.html %}
             {{ content }}
             {% assign hasSimilar = '' %}
 {% for post in site.related_posts %}
