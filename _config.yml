@@ -35,3 +35,6 @@ header_page_refs: ['now', 'about', 'contact']
 
 disqus: 
   shortname: tokobungadibatam
+
+include:
+  - "image"
