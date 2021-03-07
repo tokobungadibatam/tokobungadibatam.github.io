@@ -9,7 +9,7 @@ layout: default
       {%- assign postImage = "/image/tokobungabatam.jpg" -%}
       <img src="{{- postImage | relative_url -}}" alt="toko bunga batam" loading="lazy" class="featured-image-post">
     {%- endif -%}
-    <h1 class="post-title p-name" item="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title p-name" item="name headline">{{ page.title | escape }}{{ site.url }}{{ post.url }}</h1>
     <p class="post-meta">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" item="datePublished">
